@@ -32,7 +32,7 @@ Construção de um CRUD com API Rest.
 
 ### 🚀 **Mão na massa**
 
-Se estiver utilizando Linux, para utilização do MySQL, recomendo a leitura do seguinte **[artigo]**.
+Se estiver utilizando Linux, para integração com o MySQL, recomendo a leitura do seguinte **[artigo]**.
 
 ```bash
 # Clone este repositório
